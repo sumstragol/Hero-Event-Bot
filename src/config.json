@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "clientId": "",
+    "guildId":  "",
+    "databaseFilePath": "./data.db",
+    "embedColor": [254, 90, 251],
+    "embedMaxFieldCount": 25,
+    "resetConfirmMsg": "JESTEM PEWIEN"
+}
